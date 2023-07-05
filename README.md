@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simohimo&label=Profile%20views&color=0e75b6&style=flat" alt="simohimo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simohimo" alt="simohimo" /></a> </p>
-
 - 🔭 I’m currently working on [Yokubo](https://github.com/SimoHimo/Yokubo)
 
 - 🌱 I’m currently learning **Flutter**
@@ -31,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simohimo&show_icons=true&locale=en&layout=compact" alt="simohimo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simohimo&show_icons=true&locale=en" alt="simohimo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simohimo&" alt="simohimo" /></p>
